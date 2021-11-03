@@ -1,0 +1,12 @@
+.containerr{
+    color: rgb(235, 93, 37);
+    background-image: url('../imagen/azul.jpeg');
+    text-align: center;
+  
+    
+}
+
+.containerr .h1 .button {
+    color: rgb(0, 0, 0);
+    margin: 10px 10px;
+}

@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+    border-radius: 10%;
+    color: rgb(10, 10, 10);
+    margin: 10px auto;
+    width: 70%;
+    text-decoration:none;
+    font-weight: 600;
+    font-size: 20px;
+    color:#333333;
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:40px;
+    padding-right:40px;
+    background-image: url('../imagen/acuarela.jpeg');
+    border-color: #dfeb36;
+    border-width: 3px;
+    border-style: solid;
+    border-radius:35px;
+    
+    }
+    .container .button {
+        border-radius: 20px;
+        position: relative;
+        color: bisque;
+    
+    }
+    body{
+        background-image: url(../imagen/blue.jpg);
+    }
+    
